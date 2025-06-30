@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qUuxUI3tnww=",
+  "dgSpecHash": "hbJjxZDk1/U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sbmar\\Downloads\\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao2\\Questao2.csproj",
+  "projectFilePath": "C:\\Fontes\\teste_datainfo\\Questao2\\Questao2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sbmar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

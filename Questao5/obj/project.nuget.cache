@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EGTnUkADXaI=",
+  "dgSpecHash": "uBA7j1qJJnc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sbmar\\Downloads\\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao5\\Questao5.csproj",
+  "projectFilePath": "C:\\Fontes\\teste_datainfo\\Questao5\\Questao5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sbmar\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\sbmar\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
